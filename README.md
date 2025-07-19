@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="220" alt="Coding Cat"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWszbmptN2gxdXN2amp6dTVwNXRjdTNhYTZsenBuOXhtc3FlbzRhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif" width="220" alt="Coding Cat"/>
 
 ### 🤓 About Me
 
