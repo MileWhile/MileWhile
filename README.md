@@ -1,7 +1,7 @@
    Welcome to my GitHub! 🚀
    Prepare for code, chaos, and debugging.
 
-<h1 align="center">Hey there, I'm Nikhil Goswami! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+<h1 align="center">Hey there, I'm Nikhil Goswami! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fburn-computer-gifs&psig=AOvVaw04W0Y-dFeVGjy6zLAYy5LO&ust=1753009222347000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiAsLTiyI4DFQAAAAAdAAAAABAE" width="35"/></h1>
 
 <p align="center">
   <b>Code Connoisseur 💻</b><br>
