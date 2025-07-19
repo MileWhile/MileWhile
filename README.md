@@ -16,7 +16,7 @@
 
 ### 🤓 About Me
 
-- 👨‍🎓 B.Tech CSBS@ RAIT, Navi Mumbai (still wondering why I got here)
+- 👨‍🎓 B.Tech CSBS @ RAIT, Navi Mumbai (still wondering why I got here)
 - 🐍 Python whisperer
 - 💡 Building things that (sometimes) work and (always) bugs
 - 🏆 Professional "Googler" and "Open Source" tourist
@@ -35,15 +35,15 @@
 
 ### 📬 Contact Me (collabs or existential advice)
 
-- 📧 goswaminikhil174@gmail.com
+- goswaminikhil174@gmail.com
 - [LinkedIn](https://linkedin.com/in/nikhil-goswami-a12183253)
 - [GitHub](https://github.com/MileWhile)
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=36BCF7&width=435&lines=404+Sleep+Not+Found;Thanks+for+scrolling!;code+develop+debug+develop;or+send+me+a+dad+joke!+%F0%9F%98%8A" alt="Typing SVG" class="center"/>
-</div>
+</p>
 
 <!--
 **MileWhile/MileWhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
