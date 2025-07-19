@@ -6,7 +6,7 @@
 <p align="center">
   <b>Code Connoisseur 💻</b><br>
   <a href="https://linkedin.com/in/nikhil-goswami-a12183253"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:goswamianikhi1174@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:goswaminikhil174@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/MileWhile"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
 
