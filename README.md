@@ -41,9 +41,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=36BCF7&width=435&lines=404+Sleep+Not+Found;Thanks+for+scrolling!+Star+my+repos+or+send+me+a+dad+joke!+%F0%9F%98%8A" alt="Typing SVG"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=36BCF7&width=435&lines=404+Sleep+Not+Found;Thanks+for+scrolling!;code+develop+debug+develop;or+send+me+a+dad+joke!+%F0%9F%98%8A" alt="Typing SVG" class="center"/>
+</div>
 
 <!--
 **MileWhile/MileWhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
